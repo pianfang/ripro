@@ -1,0 +1,2086 @@
+# Copyright (C) 2024 ripro
+# This file is distributed under the same license as the ripro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ripro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Ritheme <200933220@qq.com>\n"
+"Last-Translator: Ritheme <200933220@qq.com>\n"
+"POT-Creation-Date: 2024-04-13 05:07+0000\n"
+"Report-Msgid-Bugs-To: https://ritheme.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:8
+msgid "404"
+msgstr ""
+
+#: 404.php:9
+msgid "找不到页面！"
+msgstr ""
+
+#: 404.php:10
+msgid "页面出了问题或已经不存在了。"
+msgstr ""
+
+#: comments.php:5
+msgid "*昵称:"
+msgstr ""
+
+#: comments.php:6
+msgid "*邮箱:"
+msgstr ""
+
+#: comments.php:7
+msgid "网址:"
+msgstr ""
+
+#: comments.php:12
+msgid "评论(%s)"
+msgstr ""
+
+#: comments.php:15
+msgid "提示：请文明发言"
+msgstr ""
+
+#: comments.php:18
+msgid "请输入评论内容..."
+msgstr ""
+
+#: comments.php:19
+msgid "登录后评论"
+msgstr ""
+
+#: comments.php:21
+msgid "提交评论"
+msgstr ""
+
+#: functions.php:43
+msgid "全站顶部菜单"
+msgstr ""
+
+#: functions.php:99
+msgid "首页模块"
+msgstr ""
+
+#: functions.php:101
+msgid "首页模块主内容区域"
+msgstr ""
+
+#: functions.php:130
+msgid "自定义模块主内容区域"
+msgstr ""
+
+#: functions.php:139
+msgid "文章侧边栏"
+msgstr ""
+
+#: inc/goto.php:21
+msgid "安全性未知，点击Url跳转"
+msgstr ""
+
+#: inc/goto.php:22
+msgid "即将跳转到外部网站"
+msgstr ""
+
+#: inc/goto.php:42, inc/template-ajax.php:41, template-parts/page/tougao.php:126
+msgid "非法请求"
+msgstr ""
+
+#: inc/goto.php:43
+msgid "非法访问"
+msgstr ""
+
+#: inc/goto.php:54
+msgid "资源不存在或维护中"
+msgstr ""
+
+#: inc/goto.php:55
+msgid "请返回其他页面重试"
+msgstr ""
+
+#: inc/goto.php:68
+msgid "暂无下载权限"
+msgstr ""
+
+#: inc/goto.php:69
+msgid "请购买后下载本资源"
+msgstr ""
+
+#: inc/goto.php:98
+msgid "下载次数超限"
+msgstr ""
+
+#: inc/goto.php:99
+msgid "请明日再来或升级套餐"
+msgstr ""
+
+#: inc/goto.php:112
+msgid "下载链接丢失"
+msgstr ""
+
+#: inc/goto.php:113
+msgid "请联系管理员检查下载地址"
+msgstr ""
+
+#: inc/goto.php:129
+msgid "下载记录添加失败"
+msgstr ""
+
+#: inc/goto.php:130
+msgid "请返回刷新重试"
+msgstr ""
+
+#: inc/goto.php:141
+msgid "下载了%s"
+msgstr ""
+
+#: inc/goto.php:172
+msgid "下载文件丢失"
+msgstr ""
+
+#: inc/goto.php:173
+msgid "请联系管理员检查文件是否存在"
+msgstr ""
+
+#: inc/template-admin.php:564
+msgid "成功登录本站"
+msgstr ""
+
+#: inc/template-admin.php:595
+msgid "成功注册加入本站"
+msgstr ""
+
+#: inc/template-ajax.php:86
+msgid "暂无公告"
+msgstr ""
+
+#: inc/template-ajax.php:136
+msgid "暂未开启兑换"
+msgstr ""
+
+#: inc/template-ajax.php:143
+msgid "请登录后兑换"
+msgstr ""
+
+#: inc/template-ajax.php:150
+msgid "请输入兑换码"
+msgstr ""
+
+#: inc/template-ajax.php:157, inc/template-ajax.php:1189, inc/template-ajax.php:1284, inc/template-ajax.php:1416, inc/template-ajax.php:1501
+msgid "验证码错误，请刷新验证码"
+msgstr ""
+
+#: inc/template-ajax.php:166
+msgid "兑换码错误"
+msgstr ""
+
+#: inc/template-ajax.php:173
+msgid "兑换码无效"
+msgstr ""
+
+#: inc/template-ajax.php:180
+msgid "兑换码已到期"
+msgstr ""
+
+#: inc/template-ajax.php:208
+msgid "兑换类型错误"
+msgstr ""
+
+#: inc/template-ajax.php:217, inc/template-ajax.php:447
+msgid "您已获得最高特权，无需重复开通"
+msgstr ""
+
+#: inc/template-ajax.php:190
+msgid "兑换金额错误"
+msgstr ""
+
+#: inc/template-ajax.php:246, inc/template-ajax.php:480
+msgid "订单创建失败"
+msgstr ""
+
+#: inc/template-ajax.php:261
+msgid "兑换失败，请更换重试"
+msgstr ""
+
+#: inc/template-ajax.php:271, inc/template-shop.php:1266
+msgid "订单状态处理异常"
+msgstr ""
+
+#: inc/template-ajax.php:277
+msgid "兑换成功，即将刷新页面"
+msgstr ""
+
+#: inc/template-ajax.php:295, inc/template-ajax.php:335
+msgid "商城功能未开启"
+msgstr ""
+
+#: inc/template-ajax.php:302, inc/template-ajax.php:342
+msgid "请登录后购买"
+msgstr ""
+
+#: inc/template-ajax.php:311, inc/template-ajax.php:385
+msgid "暂无购买权限"
+msgstr ""
+
+#: inc/template-ajax.php:349
+msgid "订单类型错误"
+msgstr ""
+
+#: inc/template-ajax.php:439
+msgid "VIP套餐不存在"
+msgstr ""
+
+#: inc/template-ajax.php:408
+msgid "充值数量不能为0"
+msgstr ""
+
+#: inc/template-ajax.php:415
+msgid "最低充值限制"
+msgstr ""
+
+#: inc/template-ajax.php:422
+msgid "最高充值限制"
+msgstr ""
+
+#: inc/template-ajax.php:375
+msgid "文章不存在"
+msgstr ""
+
+#: inc/template-ajax.php:471
+msgid "订单价格错误"
+msgstr ""
+
+#: inc/template-ajax.php:515, inc/template-shop.php:1083, inc/template-shop.php:1273
+msgid "支付成功"
+msgstr ""
+
+#: inc/template-ajax.php:521, inc/template-shop.php:1080
+msgid "未支付"
+msgstr ""
+
+#: inc/template-ajax.php:534
+msgid "请登录后申请"
+msgstr ""
+
+#: inc/template-ajax.php:541
+msgid "网站推广功能暂未开启"
+msgstr ""
+
+#: inc/template-ajax.php:551
+msgid "可提现金额须大于 %s 才可申请"
+msgstr ""
+
+#: inc/template-ajax.php:565
+msgid "申请提现失败，请联系客服处理"
+msgstr ""
+
+#: inc/template-ajax.php:571
+msgid "成功申请提现金额%s"
+msgstr ""
+
+#: inc/template-ajax.php:579
+msgid "申请提现成功，请联系网站客服人工处理"
+msgstr ""
+
+#: inc/template-ajax.php:592
+msgid "签到功能暂未开启"
+msgstr ""
+
+#: inc/template-ajax.php:599
+msgid "今日已签到，请明日再来"
+msgstr ""
+
+#: inc/template-ajax.php:608
+msgid "签到失败"
+msgstr ""
+
+#: inc/template-ajax.php:614
+msgid "签到成功，领取(%s)%s"
+msgstr ""
+
+#: inc/template-ajax.php:634
+msgid "网站工单功能暂未开启"
+msgstr ""
+
+#: inc/template-ajax.php:641, inc/template-ajax.php:649
+msgid "请输入工单标题"
+msgstr ""
+
+#: inc/template-ajax.php:656
+msgid "请输入工单内容"
+msgstr ""
+
+#: inc/template-ajax.php:666
+msgid "图片大小超出1MB限制"
+msgstr ""
+
+#: inc/template-ajax.php:673
+msgid "仅支持上传图片附件"
+msgstr ""
+
+#: inc/template-ajax.php:682, inc/template-ajax.php:935
+msgid "图片格式错误"
+msgstr ""
+
+#: inc/template-ajax.php:716
+msgid "工单提交失败，请重试"
+msgstr ""
+
+#: inc/template-ajax.php:722
+msgid "工单提交成功，客服会尽快处理"
+msgstr ""
+
+#: inc/template-ajax.php:736, inc/template-ajax.php:1084, inc/template-ajax.php:1263, inc/template-ajax.php:1409
+msgid "邮箱地址格式错误"
+msgstr ""
+
+#: inc/template-ajax.php:743, inc/template-ajax.php:1298
+msgid "此邮箱已被注册"
+msgstr ""
+
+#: inc/template-ajax.php:750
+msgid "发送成功"
+msgstr ""
+
+#: inc/template-ajax.php:756
+msgid "发送失败"
+msgstr ""
+
+#: inc/template-ajax.php:799
+msgid "点赞失败"
+msgstr ""
+
+#: inc/template-ajax.php:794
+msgid "点赞成功"
+msgstr ""
+
+#: inc/template-ajax.php:813
+msgid "请登录后收藏"
+msgstr ""
+
+#: inc/template-ajax.php:840
+msgid "已取消收藏"
+msgstr ""
+
+#: inc/template-ajax.php:823
+msgid "您已收藏过"
+msgstr ""
+
+#: inc/template-ajax.php:830
+msgid "收藏成功"
+msgstr ""
+
+#: inc/template-ajax.php:853
+msgid "手机扫码或复制链接分享"
+msgstr ""
+
+#: inc/template-ajax.php:910
+msgid "请选择头像上传"
+msgstr ""
+
+#: inc/template-ajax.php:919
+msgid "图片大小超出500KB限制"
+msgstr ""
+
+#: inc/template-ajax.php:926
+msgid "仅支持上传图片"
+msgstr ""
+
+#: inc/template-ajax.php:948
+msgid "只允许上传图片文件"
+msgstr ""
+
+#: inc/template-ajax.php:967
+msgid "未知的文件类型"
+msgstr ""
+
+#: inc/template-ajax.php:1021
+msgid "上传失败请重试"
+msgstr ""
+
+#: inc/template-ajax.php:1030
+msgid "头像上传成功"
+msgstr ""
+
+#: inc/template-ajax.php:1063
+msgid "保存失败"
+msgstr ""
+
+#: inc/template-ajax.php:1069
+msgid "保存成功"
+msgstr ""
+
+#: inc/template-ajax.php:1091
+msgid "此邮箱已被使用"
+msgstr ""
+
+#: inc/template-ajax.php:1103
+msgid "邮箱修改失败"
+msgstr ""
+
+#: inc/template-ajax.php:1109
+msgid "邮箱修改成功"
+msgstr ""
+
+#: inc/template-ajax.php:1126
+msgid "请输入完整密码修改信息"
+msgstr ""
+
+#: inc/template-ajax.php:1132
+msgid "新密码不能与旧密码相同"
+msgstr ""
+
+#: inc/template-ajax.php:1138
+msgid "两次输入的密码不一致"
+msgstr ""
+
+#: inc/template-ajax.php:1145
+msgid "旧密码错误，请输入正确的密码"
+msgstr ""
+
+#: inc/template-ajax.php:1153
+msgid "密码修改成功，请使用新密码重新登录"
+msgstr ""
+
+#: inc/template-ajax.php:1170
+msgid "本站未开启登录功能"
+msgstr ""
+
+#: inc/template-ajax.php:1182
+msgid "请输入账号或密码"
+msgstr ""
+
+#: inc/template-ajax.php:1203
+msgid "用户名或密码不正确"
+msgstr ""
+
+#: inc/template-ajax.php:1211
+msgid "此账号已被封禁（ %s ）"
+msgstr ""
+
+#: inc/template-ajax.php:1220
+msgid "登录成功"
+msgstr ""
+
+#: inc/template-ajax.php:1240
+msgid "本站未开启注册功能"
+msgstr ""
+
+#: inc/template-ajax.php:1256
+msgid "用户名格式错误"
+msgstr ""
+
+#: inc/template-ajax.php:1270
+msgid "请输入完整注册信息"
+msgstr ""
+
+#: inc/template-ajax.php:1277, inc/template-ajax.php:1487
+msgid "两次密码输入不一致"
+msgstr ""
+
+#: inc/template-ajax.php:1291
+msgid "此用户名已被注册"
+msgstr ""
+
+#: inc/template-ajax.php:1307
+msgid "邮箱验证码错误"
+msgstr ""
+
+#: inc/template-ajax.php:1318
+msgid "请输入邀请码"
+msgstr ""
+
+#: inc/template-ajax.php:1328
+msgid "邀请码错误"
+msgstr ""
+
+#: inc/template-ajax.php:1335
+msgid "邀请码已失效"
+msgstr ""
+
+#: inc/template-ajax.php:1342
+msgid "邀请码已到期"
+msgstr ""
+
+#: inc/template-ajax.php:1357
+msgid "邀请码状态异常，请刷新重试"
+msgstr ""
+
+#: inc/template-ajax.php:1390
+msgid "注册成功，即将自动登录"
+msgstr ""
+
+#: inc/template-ajax.php:1423
+msgid "此邮箱无绑定用户"
+msgstr ""
+
+#: inc/template-ajax.php:1432
+msgid "用户查询失败"
+msgstr ""
+
+#: inc/template-ajax.php:1442
+msgid "账号异常，请刷新页面"
+msgstr ""
+
+#: inc/template-ajax.php:1464
+msgid "重置密码链接"
+msgstr ""
+
+#: inc/template-ajax.php:1465
+msgid "请打开此链接重置您的账号密码: %s"
+msgstr ""
+
+#: inc/template-ajax.php:1470
+msgid "重置密码链接将发送到您的邮箱"
+msgstr ""
+
+#: inc/template-ajax.php:1494
+msgid "页面参数错误"
+msgstr ""
+
+#: inc/template-ajax.php:1509
+msgid "账号信息获取失败"
+msgstr ""
+
+#: inc/template-ajax.php:1518
+msgid "重置链接无效或已过期"
+msgstr ""
+
+#: inc/template-ajax.php:1527
+msgid "密码重置成功,请使用新密码登录"
+msgstr ""
+
+#: inc/template-assets.php:138
+msgid "密码已复制剪贴板"
+msgstr ""
+
+#: inc/template-assets.php:139
+msgid "复制"
+msgstr ""
+
+#: inc/template-assets.php:140
+msgid "复制成功"
+msgstr ""
+
+#: inc/template-assets.php:141
+msgid "提交中..."
+msgstr ""
+
+#: inc/template-assets.php:142
+msgid "评论成功"
+msgstr ""
+
+#: inc/template-assets.php:143
+msgid "评论成功，即将刷新页面"
+msgstr ""
+
+#: inc/template-assets.php:144
+msgid "请求支付中···"
+msgstr ""
+
+#: inc/template-assets.php:145
+msgid "支付已取消"
+msgstr ""
+
+#: inc/template-assets.php:146
+msgid "确定删除此记录？"
+msgstr ""
+
+#: inc/template-filter.php:119
+msgid "搜索到 %1$s 个与 \"%2$s\" 相关的结果"
+msgstr ""
+
+#: inc/template-post-type.php:84
+msgid "搜索"
+msgstr ""
+
+#: inc/template-post-type.php:85, template-parts/archive-filter.php:107, template-parts/archive-filter.php:136, template-parts/archive-filter.php:155
+msgid "全部"
+msgstr ""
+
+#: inc/template-post-type.php:86
+msgid "查看"
+msgstr ""
+
+#: inc/template-post-type.php:87, template-parts/user/part/tougao.php:125
+msgid "编辑"
+msgstr ""
+
+#: inc/template-post-type.php:88, template-parts/archive-filter.php:183
+msgid "更新"
+msgstr ""
+
+#: inc/template-post-type.php:89
+msgid "添加新"
+msgstr ""
+
+#: inc/template-post-type.php:90
+msgid "新增"
+msgstr ""
+
+#: inc/template-seo.php:53
+msgid "投稿发布"
+msgstr ""
+
+#: inc/template-seo.php:51
+msgid "VIP介绍"
+msgstr ""
+
+#: inc/template-seo.php:49, template-parts/page/links.php:21
+msgid "网址导航"
+msgstr ""
+
+#: inc/template-seo.php:47, template-parts/page/tags.php:31
+msgid "标签云"
+msgstr ""
+
+#: inc/template-seo.php:45, template-parts/page/login-form.php:172
+msgid "找回密码"
+msgstr ""
+
+#: inc/template-seo.php:43
+msgid "用户注册"
+msgstr ""
+
+#: inc/template-seo.php:41
+msgid "用户登录"
+msgstr ""
+
+#: inc/template-seo.php:39
+msgid "个人中心"
+msgstr ""
+
+#: inc/template-shop.php:698, template-parts/user/part/vip.php:41
+msgid "到期"
+msgstr ""
+
+#: inc/template-shop.php:783
+msgid "绑定失败"
+msgstr ""
+
+#: inc/template-shop.php:784
+msgid "当前用户之前已有其他账号绑定，请先登录其他账户解绑，或者激活已经使用该方式登录的账号！"
+msgstr ""
+
+#: inc/template-shop.php:818
+msgid "新用户注册失败"
+msgstr ""
+
+#: inc/template-shop.php:889, template-parts/user/part/profile.php:20
+msgid "基本信息"
+msgstr ""
+
+#: inc/template-shop.php:890
+msgid "我的余额"
+msgstr ""
+
+#: inc/template-shop.php:891
+msgid "我的会员"
+msgstr ""
+
+#: inc/template-shop.php:892
+msgid "我的订单"
+msgstr ""
+
+#: inc/template-shop.php:893, template-parts/user/part/down.php:8
+msgid "下载记录"
+msgstr ""
+
+#: inc/template-shop.php:894
+msgid "我的收藏"
+msgstr ""
+
+#: inc/template-shop.php:895
+msgid "我的推广"
+msgstr ""
+
+#: inc/template-shop.php:896
+msgid "我的工单"
+msgstr ""
+
+#: inc/template-shop.php:897
+msgid "我的投稿"
+msgstr ""
+
+#: inc/template-shop.php:898
+msgid "退出登录"
+msgstr ""
+
+#: inc/template-shop.php:967, inc/template-shop.php:1014, inc/template-shop.php:1054, inc/template-shop.php:1077
+msgid "失效"
+msgstr ""
+
+#: inc/template-shop.php:970
+msgid "待回复"
+msgstr ""
+
+#: inc/template-shop.php:973
+msgid "处理中"
+msgstr ""
+
+#: inc/template-shop.php:976
+msgid "已回复"
+msgstr ""
+
+#: inc/template-shop.php:979
+msgid "已关闭"
+msgstr ""
+
+#: inc/template-shop.php:982, inc/template-shop.php:1004
+msgid "其他"
+msgstr ""
+
+#: inc/template-shop.php:992
+msgid "资源问题"
+msgstr ""
+
+#: inc/template-shop.php:995
+msgid "会员问题"
+msgstr ""
+
+#: inc/template-shop.php:998
+msgid "网站BUG"
+msgstr ""
+
+#: inc/template-shop.php:1001
+msgid "其他问题"
+msgstr ""
+
+#: inc/template-shop.php:1017
+msgid "未使用"
+msgstr ""
+
+#: inc/template-shop.php:1020
+msgid "已使用"
+msgstr ""
+
+#: inc/template-shop.php:1023, inc/template-shop.php:1066, inc/template-shop.php:1086
+msgid "异常"
+msgstr ""
+
+#: inc/template-shop.php:1033, inc/template-shop.php:1044, inc/template-shop.php:1110
+msgid "无"
+msgstr ""
+
+#: inc/template-shop.php:1036
+msgid "余额充值卡"
+msgstr ""
+
+#: inc/template-shop.php:1038
+msgid "会员兑换卡"
+msgstr ""
+
+#: inc/template-shop.php:1041
+msgid "注册邀请码"
+msgstr ""
+
+#: inc/template-shop.php:1057
+msgid "未提现"
+msgstr ""
+
+#: inc/template-shop.php:1060, template-parts/user/part/aff.php:26
+msgid "提现中"
+msgstr ""
+
+#: inc/template-shop.php:1063, template-parts/user/part/aff.php:27
+msgid "已提现"
+msgstr ""
+
+#: inc/template-shop.php:1095, inc/template-shop.php:1107
+msgid "其他订单"
+msgstr ""
+
+#: inc/template-shop.php:1098
+msgid "文章订单"
+msgstr ""
+
+#: inc/template-shop.php:1101
+msgid "充值订单"
+msgstr ""
+
+#: inc/template-shop.php:1104
+msgid "VIP订单"
+msgstr ""
+
+#: inc/template-shop.php:1137
+msgid "后台充值"
+msgstr ""
+
+#: inc/template-shop.php:1138
+msgid "卡密支付"
+msgstr ""
+
+#: inc/template-shop.php:1139
+msgid "余额支付"
+msgstr ""
+
+#: inc/template-shop.php:1195
+msgid "扫码支付 %s 元"
+msgstr ""
+
+#: inc/template-shop.php:1192
+msgid "微信扫码支付 %s 元"
+msgstr ""
+
+#: inc/template-shop.php:1188
+msgid "支付宝扫码支付 %s 元"
+msgstr ""
+
+#: inc/template-shop.php:1198
+msgid "支付后请等待 5 秒左右，切勿关闭扫码窗口"
+msgstr ""
+
+#: inc/template-shop.php:1218
+msgid "支付接口未配置"
+msgstr ""
+
+#: inc/template-shop.php:1224, inc/template-shop.php:1230
+msgid "支付接口暂未开启"
+msgstr ""
+
+#: inc/template-shop.php:1252
+msgid "余额不足"
+msgstr ""
+
+#: inc/template-shop.php:1257
+msgid "余额支付失败"
+msgstr ""
+
+#: inc/template-shop.php:1461
+msgid "成功开通了本站%s"
+msgstr ""
+
+#: inc/template-shop.php:1439
+msgid "成功充值%s%s"
+msgstr ""
+
+#: inc/template-shop.php:1419
+msgid "成功购买了%s"
+msgstr ""
+
+#: inc/template-shop.php:1487
+msgid "推广成功，获得佣金奖励%s"
+msgstr ""
+
+#: inc/template-shop.php:1500
+msgid "新订单付款成功提醒"
+msgstr ""
+
+#: inc/template-shop.php:1501
+msgid "订单金额：%s，</br>详细信息请在网站后台查看订单信息"
+msgstr ""
+
+#: inc/template-tags.php:122, template-parts/widget/home-dynamic.php:65
+msgid "游客"
+msgstr ""
+
+#: inc/template-tags.php:288, inc/template-tags.php:298
+msgid "前"
+msgstr ""
+
+#: inc/template-tags.php:794
+msgid "首页"
+msgstr ""
+
+#: inc/template-tags.php:852
+msgid "搜索: %s"
+msgstr ""
+
+#: inc/template-tags.php:826
+msgid "正文"
+msgstr ""
+
+#: inc/template-tags.php:866
+msgid "第%s页"
+msgstr ""
+
+#: inc/template-tags.php:924
+msgid "加载更多"
+msgstr ""
+
+#: inc/template-tags.php:925
+msgid "已全部加载完毕"
+msgstr ""
+
+#: inc/template-tags.php:938, inc/template-tags.php:1049
+msgid "<i class=\"fas fa-angle-left me-1\"></i>上一页"
+msgstr ""
+
+#: inc/template-tags.php:939, inc/template-tags.php:1050
+msgid "下一页<i class=\"fas fa-angle-right ms-1\"></i>"
+msgstr ""
+
+#: inc/template-tags.php:987
+msgid "最新一页"
+msgstr ""
+
+#: inc/template-tags.php:1019
+msgid "最后一页"
+msgstr ""
+
+#: inc/template-tags.php:1059
+msgid "分页"
+msgstr ""
+
+#: inc/template-tags.php:1168, template-parts/page/img-captcha-input.php:3
+msgid "验证码"
+msgstr ""
+
+#: inc/template-tags.php:1168
+msgid "验证码："
+msgstr ""
+
+#: inc/template-walker.php:153
+msgid "您的评论正在等待审核。"
+msgstr ""
+
+#: inc/template-walker.php:159, template-parts/widget/home-dynamic.php:60
+msgid "%s前"
+msgstr ""
+
+#: page-templates/page-full.php:3
+msgid "全宽页面"
+msgstr ""
+
+#: page-templates/page-html.php:3
+msgid "Html页面"
+msgstr ""
+
+#: page-templates/page-widget.php:3
+msgid "模块化页面"
+msgstr ""
+
+#: searchform.php:9
+msgid "全站"
+msgstr ""
+
+#: searchform.php:22
+msgid "输入关键词 回车..."
+msgstr ""
+
+#: template-parts/archive-filter.php:64
+msgid "分类"
+msgstr ""
+
+#: template-parts/archive-filter.php:156, template-parts/shortcode/rihide.php:67, template-parts/single/entry-shop.php:134, template-parts/single/video-hero.php:119, template-parts/widget/sidebar-post-pay.php:109
+msgid "免费"
+msgstr ""
+
+#: template-parts/archive-filter.php:157, template-parts/archive-filter.php:160
+msgid "%s免费"
+msgstr ""
+
+#: template-parts/archive-filter.php:158
+msgid "%s折扣"
+msgstr ""
+
+#: template-parts/archive-filter.php:159
+msgid "%s专属"
+msgstr ""
+
+#: template-parts/archive-filter.php:166, template-parts/page/tougao.php:227
+msgid "价格"
+msgstr ""
+
+#: template-parts/archive-filter.php:179, template-parts/widget/home-last-posts.php:39
+msgid "最新"
+msgstr ""
+
+#: template-parts/archive-filter.php:180
+msgid "热度"
+msgstr ""
+
+#: template-parts/archive-filter.php:181, template-parts/single/entry-social.php:43
+msgid "点赞"
+msgstr ""
+
+#: template-parts/archive-filter.php:182, template-parts/single/entry-social.php:37, template-parts/widget/sidebar-author-info.php:74
+msgid "收藏"
+msgstr ""
+
+#: template-parts/archive-filter.php:184
+msgid "随机"
+msgstr ""
+
+#: template-parts/archive-filter.php:189
+msgid "排序"
+msgstr ""
+
+#: template-parts/footer/links.php:7
+msgid "友情链接："
+msgstr ""
+
+#: template-parts/footer/widget.php:20
+msgid "快速导航"
+msgstr ""
+
+#: template-parts/footer/widget.php:29
+msgid "关于本站"
+msgstr ""
+
+#: template-parts/footer/widget.php:38
+msgid "联系我们"
+msgstr ""
+
+#: template-parts/header/action-hover.php:11
+msgid "亮色模式"
+msgstr ""
+
+#: template-parts/header/action-hover.php:12
+msgid "深色模式"
+msgstr ""
+
+#: template-parts/header/action-hover.php:17
+msgid "站内搜索"
+msgstr ""
+
+#: template-parts/header/action-hover.php:21
+msgid "网站公告"
+msgstr ""
+
+#: template-parts/header/action-hover.php:127
+msgid "登录"
+msgstr ""
+
+#: template-parts/header/action-hover.php:53, template-parts/user/part/coin.php:15
+msgid "今日已签到"
+msgstr ""
+
+#: template-parts/header/action-hover.php:51, template-parts/user/part/coin.php:13
+msgid "签到领取"
+msgstr ""
+
+#: template-parts/header/action-hover.php:65
+msgid "余额"
+msgstr ""
+
+#: template-parts/header/action-hover.php:68, template-parts/user/part/coin.php:52
+msgid "充值"
+msgstr ""
+
+#: template-parts/header/action-hover.php:85
+msgid "本站"
+msgstr ""
+
+#: template-parts/header/action-hover.php:114
+msgid "后台管理"
+msgstr ""
+
+#: template-parts/loop/item-none.php:2, template-parts/user/part/fav.php:61, template-parts/user/part/tougao.php:145
+msgid "暂无内容"
+msgstr ""
+
+#: template-parts/loop/item.php:181, template-parts/loop/item.php:112, template-parts/loop/item.php:72, template-parts/loop/item.php:37, template-parts/user/part/tougao.php:100
+msgid "置顶"
+msgstr ""
+
+#: template-parts/loop/item.php:185, template-parts/loop/item.php:116, template-parts/loop/item.php:76, template-parts/loop/item.php:41
+msgid "VIP"
+msgstr ""
+
+#: template-parts/page.php:41, template-parts/single/post-content-new.php:42, template-parts/single/post-content.php:8
+msgid "继续阅读<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/page/img-captcha-input.php:4, template-parts/user/part/coin.php:90, template-parts/user/part/vip.php:158
+msgid "点击刷新验证码"
+msgstr ""
+
+#: template-parts/page/login-form.php:162
+msgid "账号绑定的邮箱*"
+msgstr ""
+
+#: template-parts/page/login-form.php:163, template-parts/page/login-form.php:76
+msgid "邮箱地址"
+msgstr ""
+
+#: template-parts/page/login-form.php:170
+msgid "重置密码链接会发送到您的邮箱，请通过重置链接修改新密码。"
+msgstr ""
+
+#: template-parts/page/login-form.php:171, template-parts/page/login-form.php:153
+msgid "想起密码？"
+msgstr ""
+
+#: template-parts/page/login-form.php:171, template-parts/page/login-form.php:153, template-parts/page/login-form.php:112
+msgid "登录账号"
+msgstr ""
+
+#: template-parts/page/login-form.php:138
+msgid "您正在重新设置账号密码"
+msgstr ""
+
+#: template-parts/page/login-form.php:140, template-parts/user/part/profile.php:146
+msgid "新密码"
+msgstr ""
+
+#: template-parts/page/login-form.php:141, template-parts/page/login-form.php:93, template-parts/page/login-form.php:37, template-parts/single/entry-shop.php:87, template-parts/widget/sidebar-post-pay.php:51
+msgid "密码"
+msgstr ""
+
+#: template-parts/page/login-form.php:144, template-parts/user/part/profile.php:150
+msgid "确认新密码"
+msgstr ""
+
+#: template-parts/page/login-form.php:145, template-parts/page/login-form.php:96
+msgid "确认输入密码"
+msgstr ""
+
+#: template-parts/page/login-form.php:156
+msgid "立即重置密码"
+msgstr ""
+
+#: template-parts/page/login-form.php:71
+msgid "用户名*"
+msgstr ""
+
+#: template-parts/page/login-form.php:72
+msgid "英文名称"
+msgstr ""
+
+#: template-parts/page/login-form.php:75
+msgid "邮箱*"
+msgstr ""
+
+#: template-parts/page/login-form.php:83
+msgid "邮箱验证码 *"
+msgstr ""
+
+#: template-parts/page/login-form.php:83
+msgid "请输入邮箱验证码"
+msgstr ""
+
+#: template-parts/page/login-form.php:92
+msgid "密码*"
+msgstr ""
+
+#: template-parts/page/login-form.php:101
+msgid "邀请码* "
+msgstr ""
+
+#: template-parts/page/login-form.php:101
+msgid "获取邀请码"
+msgstr ""
+
+#: template-parts/page/login-form.php:112
+msgid "已有账号？"
+msgstr ""
+
+#: template-parts/page/login-form.php:116
+msgid "立即注册"
+msgstr ""
+
+#: template-parts/page/login-form.php:65
+msgid "本站注册功能暂时关闭"
+msgstr ""
+
+#: template-parts/page/login-form.php:33
+msgid "邮箱或用户名"
+msgstr ""
+
+#: template-parts/page/login-form.php:37
+msgid "忘记密码？"
+msgstr ""
+
+#: template-parts/page/login-form.php:47
+msgid "记住登录状态？"
+msgstr ""
+
+#: template-parts/page/login-form.php:53
+msgid "新用户？"
+msgstr ""
+
+#: template-parts/page/login-form.php:53
+msgid "注册账号"
+msgstr ""
+
+#: template-parts/page/login-form.php:57
+msgid "立即登录"
+msgstr ""
+
+#: template-parts/page/login-form.php:27
+msgid "本站登录功能暂时关闭"
+msgstr ""
+
+#: template-parts/page/login-form.php:185
+msgid "快捷登录/注册"
+msgstr ""
+
+#: template-parts/page/login-form.php:189
+msgid "QQ登录"
+msgstr ""
+
+#: template-parts/page/login-form.php:192
+msgid "微信登录"
+msgstr ""
+
+#: template-parts/page/login-form.php:201
+msgid "注册&登录即表示同意本站"
+msgstr ""
+
+#: template-parts/page/login-form.php:202
+msgid "用户协议"
+msgstr ""
+
+#: template-parts/page/login-form.php:202
+msgid "隐私政策"
+msgstr ""
+
+#: template-parts/page/series.php:31
+msgid "专题合集"
+msgstr ""
+
+#: template-parts/page/series.php:49, template-parts/page/tags.php:41
+msgid "按数量排序"
+msgstr ""
+
+#: template-parts/page/series.php:50, template-parts/page/tags.php:42
+msgid "按名称排序"
+msgstr ""
+
+#: template-parts/page/tougao.php:24
+msgid "无权限编辑"
+msgstr ""
+
+#: template-parts/page/tougao.php:25
+msgid "仅限编辑作者本人文章"
+msgstr ""
+
+#: template-parts/page/tougao.php:133
+msgid "更新成功"
+msgstr ""
+
+#: template-parts/page/tougao.php:163
+msgid "编辑文章"
+msgstr ""
+
+#: template-parts/page/tougao.php:163, template-parts/page/tougao.php:429
+msgid "发布文章"
+msgstr ""
+
+#: template-parts/page/tougao.php:165
+msgid "如遇无法添加附件到本文章提示，请先将文章发布文后添加。"
+msgstr ""
+
+#: template-parts/page/tougao.php:167
+msgid "本站已开启作者分成奖励，您发布的资源有人购买时，成交价的(%s%%)收入将发放至您的佣金。"
+msgstr ""
+
+#: template-parts/page/tougao.php:175
+msgid "文章标题"
+msgstr ""
+
+#: template-parts/page/tougao.php:176
+msgid "请输入文章标题"
+msgstr ""
+
+#: template-parts/page/tougao.php:180
+msgid "文章内容"
+msgstr ""
+
+#: template-parts/page/tougao.php:199
+msgid "启用付费下载"
+msgstr ""
+
+#: template-parts/page/tougao.php:204
+msgid "启用付费音视频"
+msgstr ""
+
+#: template-parts/page/tougao.php:213
+msgid "价格信息"
+msgstr ""
+
+#: template-parts/page/tougao.php:218
+msgid "免费购买"
+msgstr ""
+
+#: template-parts/page/tougao.php:222
+msgid "禁止购买"
+msgstr ""
+
+#: template-parts/page/tougao.php:235
+msgid "优惠折扣"
+msgstr ""
+
+#: template-parts/page/tougao.php:237
+msgid "0.N折"
+msgstr ""
+
+#: template-parts/page/tougao.php:247
+msgid "下载信息"
+msgstr ""
+
+#: template-parts/page/tougao.php:264
+msgid "资源名称"
+msgstr ""
+
+#: template-parts/page/tougao.php:269
+msgid "下载密码"
+msgstr ""
+
+#: template-parts/page/tougao.php:274, template-parts/single/entry-shop.php:23, template-parts/widget/sidebar-post-pay.php:27
+msgid "下载地址"
+msgstr ""
+
+#: template-parts/page/tougao.php:293
+msgid "预览地址"
+msgstr ""
+
+#: template-parts/page/tougao.php:299
+msgid "自定义按钮"
+msgstr ""
+
+#: template-parts/page/tougao.php:300
+msgid "选填,格式:按钮名称|Url地址"
+msgstr ""
+
+#: template-parts/page/tougao.php:312
+msgid "音视频信息"
+msgstr ""
+
+#: template-parts/page/tougao.php:317
+msgid "免费播放"
+msgstr ""
+
+#: template-parts/page/tougao.php:333
+msgid "媒体名称"
+msgstr ""
+
+#: template-parts/page/tougao.php:338
+msgid "封面地址"
+msgstr ""
+
+#: template-parts/page/tougao.php:343
+msgid "播放地址"
+msgstr ""
+
+#: template-parts/page/tougao.php:370
+msgid "发布"
+msgstr ""
+
+#: template-parts/page/tougao.php:374
+msgid "状态"
+msgstr ""
+
+#: template-parts/page/tougao.php:377, template-parts/user/part/tougao.php:46
+msgid "已发布"
+msgstr ""
+
+#: template-parts/page/tougao.php:379
+msgid "等待审核"
+msgstr ""
+
+#: template-parts/page/tougao.php:380, template-parts/user/part/tougao.php:47
+msgid "草稿"
+msgstr ""
+
+#: template-parts/page/tougao.php:384
+msgid "文章形式"
+msgstr ""
+
+#: template-parts/page/tougao.php:386
+msgid "标准"
+msgstr ""
+
+#: template-parts/page/tougao.php:387
+msgid "图片"
+msgstr ""
+
+#: template-parts/page/tougao.php:388
+msgid "视频"
+msgstr ""
+
+#: template-parts/page/tougao.php:389
+msgid "音频"
+msgstr ""
+
+#: template-parts/page/tougao.php:393
+msgid "分类栏目"
+msgstr ""
+
+#: template-parts/page/tougao.php:401
+msgid "选择分类"
+msgstr ""
+
+#: template-parts/page/tougao.php:407
+msgid "文章标签"
+msgstr ""
+
+#: template-parts/page/tougao.php:408
+msgid "多个标签用,隔开"
+msgstr ""
+
+#: template-parts/page/tougao.php:413
+msgid "缩略图"
+msgstr ""
+
+#: template-parts/page/tougao.php:429
+msgid "更新文章"
+msgstr ""
+
+#: template-parts/page/tougao.php:430
+msgid "返回投稿管理"
+msgstr ""
+
+#: template-parts/page/vip-prices.php:25
+msgid "本站VIP"
+msgstr ""
+
+#: template-parts/page/vip-prices.php:26
+msgid "加入本站VIP，畅享海量资源"
+msgstr ""
+
+#: template-parts/page/vip-prices.php:39, template-parts/user/part/vip.php:93, template-parts/widget/home-vip-card.php:45
+msgid "%s天"
+msgstr ""
+
+#: template-parts/page/vip-prices.php:37, template-parts/user/part/vip.php:91, template-parts/widget/home-vip-card.php:43
+msgid "永久"
+msgstr ""
+
+#: template-parts/page/vip-prices.php:47, template-parts/user/part/vip.php:104, template-parts/widget/home-vip-card.php:53
+msgid "会员有效期%s"
+msgstr ""
+
+#: template-parts/page/vip-prices.php:51, template-parts/user/part/vip.php:110, template-parts/widget/home-vip-card.php:58
+msgid "尊享%s特权%s"
+msgstr ""
+
+#: template-parts/page/vip-prices.php:75, template-parts/widget/home-vip-card.php:71
+msgid "登录后升级"
+msgstr ""
+
+#: template-parts/page/vip-prices.php:61, template-parts/user/part/vip.php:120
+msgid "立即开通"
+msgstr ""
+
+#: template-parts/page/vip-prices.php:69, template-parts/user/part/vip.php:128
+msgid "立即升级"
+msgstr ""
+
+#: template-parts/page/vip-prices.php:67, template-parts/user/part/vip.php:126
+msgid "立即续费"
+msgstr ""
+
+#: template-parts/page/vip-prices.php:64, template-parts/user/part/vip.php:123
+msgid "已获得权限"
+msgstr ""
+
+#: template-parts/page/vip-prices.php:92
+msgid "VIP会员说明"
+msgstr ""
+
+#: template-parts/page/vip-prices.php:93
+msgid "开通会员常见问题说明及介绍"
+msgstr ""
+
+#: template-parts/shortcode/ri-login-hide.php:19, template-parts/shortcode/ri-reply-hide.php:19, template-parts/shortcode/rihide.php:27
+msgid "隐藏内容"
+msgstr ""
+
+#: template-parts/shortcode/ri-login-hide.php:21
+msgid "本内容需登录后查看"
+msgstr ""
+
+#: template-parts/shortcode/ri-login-hide.php:23, template-parts/shortcode/rihide.php:32
+msgid "登录后查看"
+msgstr ""
+
+#: template-parts/shortcode/ri-login-hide.php:16, template-parts/shortcode/ri-reply-hide.php:16, template-parts/shortcode/rihide.php:24
+msgid "已获得查看权限"
+msgstr ""
+
+#: template-parts/shortcode/ri-reply-hide.php:21
+msgid "本内容需评论后查看"
+msgstr ""
+
+#: template-parts/shortcode/ri-reply-hide.php:23
+msgid "评论后查看"
+msgstr ""
+
+#: template-parts/shortcode/rihide.php:36
+msgid "本内容需权限查看"
+msgstr ""
+
+#: template-parts/shortcode/rihide.php:38
+msgid "购买查看权限"
+msgstr ""
+
+#: template-parts/shortcode/rihide.php:47, template-parts/single/entry-shop.php:110, template-parts/single/video-hero.php:99, template-parts/widget/sidebar-post-pay.php:75
+msgid "原价"
+msgstr ""
+
+#: template-parts/shortcode/rihide.php:71, template-parts/single/entry-shop.php:138, template-parts/single/video-hero.php:123, template-parts/widget/sidebar-post-pay.php:113
+msgid "%s折"
+msgstr ""
+
+#: template-parts/shortcode/rihide.php:64, template-parts/single/entry-shop.php:131, template-parts/single/video-hero.php:116, template-parts/widget/sidebar-post-pay.php:106
+msgid "不可购买"
+msgstr ""
+
+#: template-parts/shortcode/rihide.php:88
+msgid "已有<span>%d</span>人解锁查看"
+msgstr ""
+
+#: template-parts/shortcode/rihide.php:30
+msgid "本内容登录后免费查看"
+msgstr ""
+
+#: template-parts/single/entry-media-preview.php:34
+msgid "预览"
+msgstr ""
+
+#: template-parts/single/entry-meta.php:41
+msgid "[编辑]"
+msgstr ""
+
+#: template-parts/single/entry-related-posts.php:50
+msgid "相关文章"
+msgstr ""
+
+#: template-parts/single/entry-shop.php:63
+msgid "资源分类: "
+msgstr ""
+
+#: template-parts/single/entry-shop.php:64
+msgid "浏览热度: "
+msgstr ""
+
+#: template-parts/single/entry-shop.php:65
+msgid "发布时间: "
+msgstr ""
+
+#: template-parts/single/entry-shop.php:66
+msgid "最近更新: "
+msgstr ""
+
+#: template-parts/single/entry-shop.php:104, template-parts/widget/sidebar-post-pay.php:69
+msgid "本资源需权限下载"
+msgstr ""
+
+#: template-parts/single/entry-shop.php:154, template-parts/widget/sidebar-post-pay.php:129
+msgid "购买下载权限"
+msgstr ""
+
+#: template-parts/single/entry-shop.php:161, template-parts/widget/sidebar-post-pay.php:156
+msgid "查看预览"
+msgstr ""
+
+#: template-parts/single/entry-shop.php:98, template-parts/widget/sidebar-post-pay.php:63
+msgid "本资源登录后免费下载"
+msgstr ""
+
+#: template-parts/single/entry-shop.php:100, template-parts/widget/sidebar-post-pay.php:65
+msgid "登录后下载"
+msgstr ""
+
+#: template-parts/single/entry-shop.php:80, template-parts/widget/sidebar-post-pay.php:43
+msgid "免费下载"
+msgstr ""
+
+#: template-parts/single/entry-shop.php:80, template-parts/widget/sidebar-post-pay.php:43
+msgid "已获得下载权限"
+msgstr ""
+
+#: template-parts/single/entry-social.php:32
+msgid "分享"
+msgstr ""
+
+#: template-parts/single/entry-social.php:37
+msgid "取消收藏"
+msgstr ""
+
+#: template-parts/single/post-content-new.php:14, template-parts/widget/home-vip-card.php:68
+msgid "详情介绍"
+msgstr ""
+
+#: template-parts/single/post-content-new.php:19
+msgid "常见问题"
+msgstr ""
+
+#: template-parts/single/post-content-new.php:25
+msgid "评论建议"
+msgstr ""
+
+#: template-parts/single/post-content-new.php:55, template-parts/single/post-content.php:21
+msgid "内容分页"
+msgstr ""
+
+#: template-parts/single/video-hero.php:36
+msgid "第%d集"
+msgstr ""
+
+#: template-parts/single/video-hero.php:87
+msgid "本内容需权限播放"
+msgstr ""
+
+#: template-parts/single/video-hero.php:89
+msgid "购买播放权限"
+msgstr ""
+
+#: template-parts/single/video-hero.php:140
+msgid "已有<span>%d</span>人解锁播放"
+msgstr ""
+
+#: template-parts/single/video-hero.php:81
+msgid "本内容登录后免费播放"
+msgstr ""
+
+#: template-parts/single/video-hero.php:83
+msgid "登录后播放"
+msgstr ""
+
+#: template-parts/single/video-hero.php:166
+msgid "(共%d集)"
+msgstr ""
+
+#: template-parts/user/part/aff.php:8
+msgid "推广中心"
+msgstr ""
+
+#: template-parts/user/part/aff.php:12
+msgid "您的推广链接"
+msgstr ""
+
+#: template-parts/user/part/aff.php:24
+msgid "累计佣金"
+msgstr ""
+
+#: template-parts/user/part/aff.php:25
+msgid "可提现"
+msgstr ""
+
+#: template-parts/user/part/aff.php:43
+msgid "申请提现"
+msgstr ""
+
+#: template-parts/user/part/aff.php:48
+msgid "已成功推广注册"
+msgstr ""
+
+#: template-parts/user/part/aff.php:60
+msgid "暂无用户通过您的推广链接注册"
+msgstr ""
+
+#: template-parts/user/part/aff.php:64
+msgid "推广说明："
+msgstr ""
+
+#: template-parts/user/part/aff.php:79
+msgid "佣金记录"
+msgstr ""
+
+#: template-parts/user/part/aff.php:82, template-parts/user/part/down.php:11, template-parts/user/part/order.php:11, template-parts/user/part/ticket.php:181
+msgid "最近20条"
+msgstr ""
+
+#: template-parts/user/part/aff.php:108
+msgid "推广类型"
+msgstr ""
+
+#: template-parts/user/part/aff.php:108
+msgid "购买人："
+msgstr ""
+
+#: template-parts/user/part/aff.php:111
+msgid "订单金额：￥"
+msgstr ""
+
+#: template-parts/user/part/aff.php:112
+msgid "佣金收益："
+msgstr ""
+
+#: template-parts/user/part/aff.php:113
+msgid "状态："
+msgstr ""
+
+#: template-parts/user/part/aff.php:101, template-parts/user/part/coin.php:114, template-parts/user/part/down.php:21, template-parts/user/part/order.php:18, template-parts/user/part/ticket.php:185, template-parts/user/part/vip.php:182
+msgid "暂无记录"
+msgstr ""
+
+#: template-parts/user/part/coin.php:21
+msgid "当前账户余额"
+msgstr ""
+
+#: template-parts/user/part/coin.php:31
+msgid "充值余额"
+msgstr ""
+
+#: template-parts/user/part/coin.php:52
+msgid "请选择充值数量"
+msgstr ""
+
+#: template-parts/user/part/coin.php:59
+msgid "充值说明"
+msgstr ""
+
+#: template-parts/user/part/coin.php:79
+msgid "兑换"
+msgstr ""
+
+#: template-parts/user/part/coin.php:83
+msgid "使用CDK码兑换站内币"
+msgstr ""
+
+#: template-parts/user/part/coin.php:94, template-parts/user/part/vip.php:162
+msgid "立即兑换"
+msgstr ""
+
+#: template-parts/user/part/coin.php:95, template-parts/user/part/vip.php:163
+msgid "购买CDK"
+msgstr ""
+
+#: template-parts/user/part/coin.php:105
+msgid "获取记录（最近10条）"
+msgstr ""
+
+#: template-parts/user/part/coin.php:120
+msgid "充值金额：￥%1$s（%2$s）"
+msgstr ""
+
+#: template-parts/user/part/coin.php:122, template-parts/user/part/vip.php:196
+msgid "支付方式：%s"
+msgstr ""
+
+#: template-parts/user/part/down.php:31
+msgid "下载IP："
+msgstr ""
+
+#: template-parts/user/part/down.php:32
+msgid "下载次数："
+msgstr ""
+
+#: template-parts/user/part/fav.php:44
+msgid "收藏列表"
+msgstr ""
+
+#: template-parts/user/part/menu.php:24
+msgid "注册时间：%s"
+msgstr ""
+
+#: template-parts/user/part/menu.php:22
+msgid "到期时间：%s"
+msgstr ""
+
+#: template-parts/user/part/menu.php:30
+msgid "每天可下载数(%d)"
+msgstr ""
+
+#: template-parts/user/part/menu.php:31
+msgid "今日已用(%d)"
+msgstr ""
+
+#: template-parts/user/part/menu.php:32
+msgid "今日剩余(%d)"
+msgstr ""
+
+#: template-parts/user/part/order.php:8
+msgid "订单记录"
+msgstr ""
+
+#: template-parts/user/part/order.php:28
+msgid "订单号："
+msgstr ""
+
+#: template-parts/user/part/order.php:29
+msgid "支付金额："
+msgstr ""
+
+#: template-parts/user/part/order.php:30
+msgid "支付方式："
+msgstr ""
+
+#: template-parts/user/part/profile.php:33
+msgid "上传头像"
+msgstr ""
+
+#: template-parts/user/part/profile.php:43
+msgid "显示昵称"
+msgstr ""
+
+#: template-parts/user/part/profile.php:48
+msgid "联系QQ"
+msgstr ""
+
+#: template-parts/user/part/profile.php:53
+msgid "个人介绍"
+msgstr ""
+
+#: template-parts/user/part/profile.php:59
+msgid "保存资料"
+msgstr ""
+
+#: template-parts/user/part/profile.php:70
+msgid "账户绑定"
+msgstr ""
+
+#: template-parts/user/part/profile.php:76
+msgid "当前邮箱"
+msgstr ""
+
+#: template-parts/user/part/profile.php:81
+msgid "新邮箱地址"
+msgstr ""
+
+#: template-parts/user/part/profile.php:89
+msgid "快捷登录绑定信息"
+msgstr ""
+
+#: template-parts/user/part/profile.php:97
+msgid "绑定QQ登录"
+msgstr ""
+
+#: template-parts/user/part/profile.php:95
+msgid "解绑QQ登录"
+msgstr ""
+
+#: template-parts/user/part/profile.php:102
+msgid "绑定微信登录"
+msgstr ""
+
+#: template-parts/user/part/profile.php:100
+msgid "解绑微信登录"
+msgstr ""
+
+#: template-parts/user/part/profile.php:113
+msgid "确认修改邮箱"
+msgstr ""
+
+#: template-parts/user/part/profile.php:127
+msgid "密码修改"
+msgstr ""
+
+#: template-parts/user/part/profile.php:133
+msgid "邮箱信息"
+msgstr ""
+
+#: template-parts/user/part/profile.php:138
+msgid "旧密码"
+msgstr ""
+
+#: template-parts/user/part/profile.php:156
+msgid "确认修改密码"
+msgstr ""
+
+#: template-parts/user/part/ticket.php:143
+msgid "工单列表"
+msgstr ""
+
+#: template-parts/user/part/ticket.php:144, template-parts/user/part/ticket.php:18
+msgid "新建工单"
+msgstr ""
+
+#: template-parts/user/part/ticket.php:65
+msgid "工单详情"
+msgstr ""
+
+#: template-parts/user/part/ticket.php:66, template-parts/user/part/ticket.php:19
+msgid "返回工单列表"
+msgstr ""
+
+#: template-parts/user/part/ticket.php:107
+msgid "查看附件"
+msgstr ""
+
+#: template-parts/user/part/ticket.php:120
+msgid "工单回复内容："
+msgstr ""
+
+#: template-parts/user/part/ticket.php:129
+msgid "删除工单"
+msgstr ""
+
+#: template-parts/user/part/ticket.php:76
+msgid "获取工单信息失败"
+msgstr ""
+
+#: template-parts/user/part/ticket.php:27
+msgid "创建人"
+msgstr ""
+
+#: template-parts/user/part/ticket.php:32
+msgid "工单类型"
+msgstr ""
+
+#: template-parts/user/part/ticket.php:42
+msgid "工单标题"
+msgstr ""
+
+#: template-parts/user/part/ticket.php:47
+msgid "描述"
+msgstr ""
+
+#: template-parts/user/part/ticket.php:54
+msgid "提交工单"
+msgstr ""
+
+#: template-parts/user/part/tougao.php:40
+msgid "投稿管理"
+msgstr ""
+
+#: template-parts/user/part/tougao.php:41
+msgid "新建投稿"
+msgstr ""
+
+#: template-parts/user/part/tougao.php:48
+msgid "待审核"
+msgstr ""
+
+#: template-parts/user/part/tougao.php:49
+msgid "回收站"
+msgstr ""
+
+#: template-parts/user/part/tougao.php:128
+msgid "删除"
+msgstr ""
+
+#: template-parts/user/part/vip.php:23
+msgid "会员中心"
+msgstr ""
+
+#: template-parts/user/part/vip.php:43
+msgid "加入"
+msgstr ""
+
+#: template-parts/user/part/vip.php:53
+msgid "每天可下载数"
+msgstr ""
+
+#: template-parts/user/part/vip.php:54
+msgid "今日已用次数"
+msgstr ""
+
+#: template-parts/user/part/vip.php:55
+msgid "今日剩余次数"
+msgstr ""
+
+#: template-parts/user/part/vip.php:56
+msgid "下载使用率"
+msgstr ""
+
+#: template-parts/user/part/vip.php:77
+msgid "会员开通"
+msgstr ""
+
+#: template-parts/user/part/vip.php:148
+msgid "会员兑换"
+msgstr ""
+
+#: template-parts/user/part/vip.php:151
+msgid "使用CDK码兑换VIP特权"
+msgstr ""
+
+#: template-parts/user/part/vip.php:173
+msgid "VIP获取记录（最近10条）"
+msgstr ""
+
+#: template-parts/user/part/vip.php:191
+msgid "订单类型：%s"
+msgstr ""
+
+#: template-parts/user/part/vip.php:194
+msgid "支付金额：￥%1$s（%2$s）"
+msgstr ""
+
+#: template-parts/widget/home-dynamic.php:22, template-parts/widget/home-dynamic.php:28, template-parts/widget/home-dynamic.php:34
+msgid "欢迎访问%s，网址：%s"
+msgstr ""
+
+#: template-parts/widget/home-overview.php:22
+msgid "运营天数"
+msgstr ""
+
+#: template-parts/widget/home-overview.php:27
+msgid "文章总数"
+msgstr ""
+
+#: template-parts/widget/home-overview.php:32
+msgid "用户总数"
+msgstr ""
+
+#: template-parts/widget/home-overview.php:37
+msgid "VIP会员"
+msgstr ""
+
+#: template-parts/widget/home-overview.php:42
+msgid "今日注册"
+msgstr ""
+
+#: template-parts/widget/home-overview.php:53
+msgid "近7天更新"
+msgstr ""
+
+#: template-parts/widget/home-overview.php:58
+msgid "分类总数"
+msgstr ""
+
+#: template-parts/widget/home-overview.php:63
+msgid "评论总数"
+msgstr ""
+
+#: template-parts/widget/home-overview.php:74
+msgid "浏览量总数"
+msgstr ""
+
+#: template-parts/widget/home-scratch-card.php:34
+msgid "已被领取使用"
+msgstr ""
+
+#: template-parts/widget/home-search-box.php:120
+msgid "搜索热词"
+msgstr ""
+
+#: template-parts/widget/sidebar-author-info.php:57
+msgid "等级"
+msgstr ""
+
+#: template-parts/widget/sidebar-author-info.php:66
+msgid "文章"
+msgstr ""
+
+#: template-parts/widget/sidebar-author-info.php:70
+msgid "评论"
+msgstr ""
+
+#: template-parts/widget/sidebar-author-info.php:81
+msgid "查看作者其他文章"
+msgstr ""
+
+#: template-parts/widget/sidebar-post-pay.php:39
+msgid "下载"
+msgstr ""
+
+#: template-parts/widget/sidebar-post-pay.php:97
+msgid "VIP折扣"
+msgstr ""
+
+#: template-parts/widget/sidebar-post-pay.php:136
+msgid "已有<span>%d</span>人解锁下载"
+msgstr ""
+
+#: template-parts/widget/sidebar-post-pay.php:166
+msgid "累计销量"
+msgstr ""
+
+#: template-parts/widget/sidebar-post-pay.php:169
+msgid "最近更新"
+msgstr ""
+
+#: template-parts/widget/sidebar-post-pay.php:172
+msgid "包含资源"
+msgstr ""
+
+#: template-parts/widget/sidebar-post-pay.php:172
+msgid "(%d个)"
+msgstr ""
+
+#: template-parts/widget/sidebar-ranking-list.php:101
+msgid "暂无排行"
+msgstr ""

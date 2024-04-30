@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+    "settings": {
+        "layout": {
+            "contentSize": "690px",
+            "wideSize": "1280px"
+        },
+        "color": {
+            "duotone": null,
+            "customDuotone": false
+        }
+
+    }
+}
